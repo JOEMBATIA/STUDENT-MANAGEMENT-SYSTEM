@@ -1,0 +1,6 @@
+com/joe/cms/repository/StudentRepository.class
+com/joe/cms/controller/StudentController.class
+com/joe/cms/entity/Student.class
+com/joe/cms/CmsApplication.class
+com/joe/cms/service/StudentService.class
+com/joe/cms/service/impl/StudentServiceImpl.class
